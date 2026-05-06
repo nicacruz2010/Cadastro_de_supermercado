@@ -1,0 +1,7 @@
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\bin\Debug\supermercado.exe.config
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\bin\Debug\supermercado.exe
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\bin\Debug\supermercado.pdb
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\obj\Debug\supermercado.csproj.AssemblyReference.cache
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\obj\Debug\supermercado.csproj.CoreCompileInputs.cache
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\obj\Debug\supermercado.exe
+C:\Users\nicoli.cacruz\Documents\Cadastro_desupermercado\supermercado\supermercado\obj\Debug\supermercado.pdb

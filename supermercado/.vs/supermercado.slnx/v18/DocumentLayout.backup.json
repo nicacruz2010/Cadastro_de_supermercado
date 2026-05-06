@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicoli.cacruz\\Documents\\Cadastro_desupermercado\\supermercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961949A6-02B3-4EB9-A1BD-83161EC7BE5F}|supermercado\\supermercado.csproj|c:\\users\\nicoli.cacruz\\documents\\cadastro_desupermercado\\supermercado\\supermercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961949A6-02B3-4EB9-A1BD-83161EC7BE5F}|supermercado\\supermercado.csproj|solutionrelative:supermercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicoli.cacruz\\Documents\\Cadastro_desupermercado\\supermercado\\supermercado\\Program.cs",
+              "RelativeDocumentMoniker": "supermercado\\Program.cs",
+              "ToolTip": "C:\\Users\\nicoli.cacruz\\Documents\\Cadastro_desupermercado\\supermercado\\supermercado\\Program.cs",
+              "RelativeToolTip": "supermercado\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T16:28:02.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
